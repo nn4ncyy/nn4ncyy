@@ -4,7 +4,7 @@
 I'm a Computer Science student currently enrolled at Grant MacEwan University and am in my last year.
 
 Connect with me:
-[LinkedIn(https://www.linkedin.com/in/nancy-dinh-1b186913b/)]
+[LinkedIn](https://www.linkedin.com/in/nancy-dinh-1b186913b/)
 
 <!--
 **nn4ncyy/nn4ncyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
