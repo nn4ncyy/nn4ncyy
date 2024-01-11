@@ -1,7 +1,7 @@
 ## Hello there! 
 ### I'm Nancy. 
 
-I'm a Computer Science student currently enrolled at Grant MacEwan University and am in my last year.
+I'm a 4th year Computer Science student currently enrolled at Grant MacEwan University.
 
 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/nancy-dinh-1b186913b/)
