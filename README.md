@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello there! 
+### I'm Nancy. 
 
 <!--
 **nn4ncyy/nn4ncyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
