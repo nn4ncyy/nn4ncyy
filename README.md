@@ -1,7 +1,11 @@
 ## Hello there! 
 ### I'm Nancy. 
 
-I'm a 4th year Computer Science student currently enrolled at Grant MacEwan University.
+I'm Computer Science student at MacEwan University. 
+
+With a lifelong appreciation for learning, I'm passionate about incorporating creative solutions into programming and creating engaging user experiences across various platforms. As a technology enthusiast with a minor in Biological Science, I've come to have a deep appreciation of for intersections between technology and human existence.
+
+From game development to web technologies, I thrive on exploring the boundaries of what's possible in the digital realm. I'm eager to contribute to cutting-edge projects that blend technical skills and creativity, and am excited to collaborate with like-minded professionals to make meaningful contributions to our understanding of the world and its interconnected systems. 
 
 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/nancy-dinh-1b186913b/)
